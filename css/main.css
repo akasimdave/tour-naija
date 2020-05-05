@@ -1,0 +1,60 @@
+.navbar{
+	background-color: darkgreen;
+}
+
+#navBarLinks a{
+	color: white;
+}
+
+#navBarLinks a:hover{
+	color: darkgreen;
+}
+
+#navBarLinks a:focus{
+	color: darkgreen;
+}
+
+#buttonToTop{
+	background-color: darkgreen;
+	color: white;
+	padding: 5px;
+}
+
+#buttonToTop a{
+	color: white;
+}
+
+#buttonToTop a:hover {
+	color: darkgreen;
+	background-color: white;
+	text-decoration-line: none;
+}
+
+#buttonToTop a:focus {
+	text-decoration-line: none;
+}
+
+#footer{
+	color: white;
+	background-color: darkgreen;
+	text-align: center;
+	padding: 15px;
+}
+
+#ourPartnersLinks a{
+	color: white;
+}
+
+#ourPartnersLinks a:focus {
+	color: darkgreen;
+	text-decoration-line: none;
+	background-color: white;
+	padding-right: 5px;
+}
+
+#ourPartnersLinks a:hover{
+	color: darkgreen;
+	background-color: white;
+	text-decoration-line: none;
+	padding-right: 5px;
+}
